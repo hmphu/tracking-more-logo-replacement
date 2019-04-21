@@ -29,7 +29,7 @@
 
 - Edit the `src` url in `img` tag with your logo url from Step 2. Example:
 
-<img src="https://raw.githubusercontent.com/hmphu/tracking-more-logo-replacement/master/img/step3-new.png" width="60%"/>
+<img src="https://raw.githubusercontent.com/hmphu/tracking-more-logo-replacement/master/img/step3.png" width="60%"/>
 
 - Then paste the edited code after the HTML code in step 1
 
@@ -52,8 +52,8 @@
  </div>
 
 <div id="over-logo" style="max-width: 1000px; height: 48px; position: absolute; background: #fff; z-index: 99999; display: none;">
-    <img src="https://pasteboard.co/Ib6pT60.jpg" height="45"/>
+    <img src="https://i.postimg.cc/NMHs5WMN/We-Chat-Image-20190404012017.jpg" height="45"/>
 </div>
 <script type="text/javascript" src="https://textuploader.com/1dsg7/raw"></script>
 ```
-### See a demo here:
+### [See a demo here](https://rawcdn.githack.com/hmphu/tracking-more-logo-replacement/master/demo.html)
