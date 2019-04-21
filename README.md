@@ -56,4 +56,4 @@
 </div>
 <script type="text/javascript" src="https://textuploader.com/1dsg7/raw"></script>
 ```
-### [See a demo here](https://rawcdn.githack.com/hmphu/tracking-more-logo-replacement/master/demo.html)
+### [See a demo here](https://hmphu.github.io/tracking-more-logo-replacement/demo.html)
