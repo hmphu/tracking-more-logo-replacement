@@ -11,8 +11,8 @@
 
 ## 2. Step 2
 
-- Goto https://pasteboard.co/ and upload your logo
-- Copy the generated link
+- Goto https://postimages.org/ and upload your logo
+- Copy the "Direct Link"
 
 <img src="https://raw.githubusercontent.com/hmphu/tracking-more-logo-replacement/master/img/step2.png" width="60%"/>
 
