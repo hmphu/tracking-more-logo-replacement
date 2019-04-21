@@ -18,7 +18,7 @@
 
 ## 3. Step 3
 
-- Copy the folowing HTML code and paste after the code from Step 1
+- Copy the folowing HTML code
 
 ```HTML
 <div id="over-logo" style="max-width: 1000px; height: 48px; position: absolute; background: #fff; z-index: 99999; display: none;">
@@ -27,4 +27,33 @@
 <script type="text/javascript" src="https://textuploader.com/1dsg7/raw"></script>
 ```
 
-- Edit the `src` url in `img` tag with your logo url from Step 2
+- Edit the `src` url in `img` tag with your logo url from Step 2. Example:
+
+<img src="https://raw.githubusercontent.com/hmphu/tracking-more-logo-replacement/master/img/step3-new.png" width="60%"/>
+
+- Then paste the edited code after the HTML code in step 1
+
+- Example completed code:
+
+```HTML
+<script type="text/javascript" src="//s.trackingmore.com/plugins/v1/buttonCurrent.js"></script>
+<div style="width: 100%;margin:0 auto;text-align:center;">
+    <form role="form" action="//track.trackingmore.com" method="get" onsubmit="return false">
+        <div class="TM_input-group">
+            <input type="text" class="TM_my_search_input_style " value="" id="button_tracking_number" placeholder="Número de Seguimiento" name="button_tracking_number" value="" autocomplete="off" maxlength="100" style="border-color: #fb6e50">
+            <span class="TM_input-group-btn">
+                <button class="TM_my_search_button_style " id="query" type="button" onclick="return doTrack()" style="background-color: #fb6e50">Seguimiento</button>
+            </span>
+        </div>
+        <input type="hidden" name="lang" value="es" />
+        <input id="button_express_code" type="hidden" name="lang" value="" />
+    </form>
+    <div id="TRNum"></div>
+ </div>
+
+<div id="over-logo" style="max-width: 1000px; height: 48px; position: absolute; background: #fff; z-index: 99999; display: none;">
+    <img src="https://pasteboard.co/Ib6pT60.jpg" height="45"/>
+</div>
+<script type="text/javascript" src="https://textuploader.com/1dsg7/raw"></script>
+```
+### See a demo here:
